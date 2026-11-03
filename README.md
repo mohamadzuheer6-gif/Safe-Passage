@@ -220,7 +220,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the live operations dashboard.
+Open [https://safepassage-frontend-git-main-labbe.vercel.app/](https://safepassage-frontend-git-main-labbe.vercel.app/) to view the live operations dashboard.
 
 ---
 
